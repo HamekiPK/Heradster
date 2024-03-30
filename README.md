@@ -1,0 +1,2 @@
+# Heradster
+NEW DDOS HACK.
