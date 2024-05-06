@@ -10,8 +10,11 @@ automatically attack and increase the load.
 
 # OS
 ●💻Windows🪟
+
 ●💻Mac🍎
+
 ●💻Linux🐧
+
 ●📱Termux >_
 
 
